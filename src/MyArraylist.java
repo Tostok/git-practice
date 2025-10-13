@@ -48,4 +48,7 @@ public class MyArraylist {
         array = newArray;
     }
 
+    // absolute cinima, but i idu this
+    
+
 }
