@@ -5,5 +5,6 @@ public class Main {
         System.out.println("Привет гит!");
         System.out.println("Как дела гит!");
         System.out.println("До свидания гит!");
+        // коток сорбош керек эле
     }
 }
